@@ -1,0 +1,7 @@
+addEmptyValue:1,
+customValues:"Insert|2\r\
+Update|3\r\
+Delete|1",
+name:"sqlActionTypes",
+typeid:34,
+uuid:"11EC5F2E-0662-4587-A4D7-F034C6C3D3EF"

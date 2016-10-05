@@ -1,0 +1,13 @@
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"A809C0EF-A378-484F-81B2-4FEC8586607A"
+}
+],
+name:"flush",
+showInMenu:true,
+typeid:3,
+uuid:"CDF4BEBC-C2A4-4782-8E1F-6933FD1A221C"
