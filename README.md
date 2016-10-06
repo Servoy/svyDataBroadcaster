@@ -7,3 +7,6 @@ When this happens, Servoy clients are not aware of the change and any data which
 
 ## License
 This module is released under the MIT License
+
+## Getting Started
+Please see the [project wiki](https://github.com/Servoy/svyDataBroadcaster/wiki)
