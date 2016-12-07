@@ -59,7 +59,7 @@ function testNotify() {
 	
 	/** @type {Array<String|Number>|JSDataSet} */
 	var pkArray = pks.split('\n');
-	var resp = scopes.svyDataBroadcasterClient.notifyDataChange(host,serverName,tableName,[pkArray],SQL_ACTION_TYPES.UPDATE_ACTION);
+	var resp = scopes.svyDataBroadcasterClient.notifyDataChange(host,serverName,tableName,pkArray,SQL_ACTION_TYPES.UPDATE_ACTION);
 	plugins.dialogs.showInfoDialog('Notify',JSON.stringify(resp));
 }
 
@@ -68,7 +68,6 @@ function testNotify() {
  * @properties={typeid:24,uuid:"9C1C4CA6-8702-4023-8EC1-3282ED34B5F7"}
  */
 function testFlush(){
-	
 	var resp = scopes.svyDataBroadcasterClient.flushClientsChache(host,serverName,tableName);
 	plugins.dialogs.showInfoDialog('Flush',JSON.stringify(resp));
 }

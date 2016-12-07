@@ -20,9 +20,9 @@ uuid:"2863244E-E01A-4047-B15F-B517853D5914"
 },
 {
 labelFor:"host",
-location:"20,70",
+location:"10,70",
 name:"host_label",
-size:"80,30",
+size:"100,30",
 text:"Host",
 transparent:true,
 typeid:7,
@@ -30,9 +30,9 @@ uuid:"521B494D-45A2-4296-B41D-8A060BB951DB"
 },
 {
 labelFor:"tableName",
-location:"20,150",
+location:"10,150",
 name:"tableName_label",
-size:"80,30",
+size:"100,30",
 text:"Tablename",
 transparent:true,
 typeid:7,
@@ -40,9 +40,9 @@ uuid:"5769AC4E-183D-4852-8466-45F79FE782D4"
 },
 {
 labelFor:"action",
-location:"20,20",
+location:"10,20",
 name:"action_label",
-size:"80,30",
+size:"100,30",
 text:"Action",
 transparent:true,
 typeid:7,
@@ -50,10 +50,10 @@ uuid:"61D2878C-7084-4F14-B7E5-7268B1D4C322"
 },
 {
 labelFor:"pks",
-location:"20,270",
+location:"10,270",
 name:"pks_label",
-size:"80,30",
-text:"Pks",
+size:"100,30",
+text:"PKs",
 transparent:true,
 typeid:7,
 uuid:"7AB862D4-12EF-4E68-8646-E83E300F5464"
@@ -77,10 +77,10 @@ uuid:"B7FEA4A6-F306-4910-897C-2A9DE852FB0F"
 },
 {
 labelFor:"sqlAction",
-location:"20,230",
+location:"10,230",
 name:"sqlAction_label",
-size:"80,30",
-text:"Sqlaction",
+size:"100,30",
+text:"SQL Action",
 transparent:true,
 typeid:7,
 uuid:"C71DC086-8074-42E3-A95B-28556707F1AF"
@@ -96,7 +96,6 @@ uuid:"C7D7A140-D45C-4686-8701-A91FCF00972B"
 {
 dataProviderID:"action",
 displayType:3,
-editable:false,
 location:"110,20",
 name:"action",
 onDataChangeMethodID:"87CD0C3E-0753-480B-9B8D-0CFBF9E43B8E",
@@ -114,10 +113,10 @@ uuid:"DFCB88B1-82ED-4034-8B95-BDF8F8C2E865"
 },
 {
 labelFor:"serverName",
-location:"20,110",
+location:"10,110",
 name:"serverName_label",
-size:"80,30",
-text:"Servername",
+size:"100,30",
+text:"Server Name",
 transparent:true,
 typeid:7,
 uuid:"E9C89C4B-9EBA-4B57-8673-D71D0695635B"
